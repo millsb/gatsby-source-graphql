@@ -1,1 +1,1 @@
-export { default as onCreateNode } from './on-create-node'
+export { default as sourceNodes } from './on-create-node'
